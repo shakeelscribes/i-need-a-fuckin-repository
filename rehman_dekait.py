@@ -1,0 +1,1 @@
+print("Asslamu Alaikum Lyaari")
