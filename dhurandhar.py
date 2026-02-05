@@ -1,1 +1,0 @@
-print("Gaadi Rok Madharrchod")
