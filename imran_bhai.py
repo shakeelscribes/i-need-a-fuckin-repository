@@ -1,1 +1,0 @@
-orint("bsdk Imran Kon")
